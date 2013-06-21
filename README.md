@@ -27,8 +27,10 @@ store.close();
 ```
 
 **Builds**
-
-https://github.com/ClickerMonkey/daperz/tree/master/build
+- [daperz-1.0.0.jar](https://github.com/ClickerMonkey/daperz/blob/master/build/daperz-1.0.0.jar?raw=true)
+- [daperz-src-1.0.0.jar](https://github.com/ClickerMonkey/daperz/blob/master/build/daperz-src-1.0.0.jar?raw=true) *- includes source code*
+- [daperz-all-1.0.0.jar](https://github.com/ClickerMonkey/daperz/blob/master/build/daperz-1.0.0.jar?raw=true) *- includes all dependencies*
+- [daperz-all-src-1.0.0.jar](https://github.com/ClickerMonkey/daperz/blob/master/build/daperz-src-1.0.0.jar?raw=true) *- includes all dependencies and source code*
 
 **Projects using daperz:**
 - [statastic](https://github.com/ClickerMonkey/statastic)
@@ -38,5 +40,4 @@ https://github.com/ClickerMonkey/daperz/tree/master/build
 - [testility](https://github.com/ClickerMonkey/testility) *for unit tests*
 
 **Testing Examples**
-
-https://github.com/ClickerMonkey/daperz/tree/master/Testing/org/magnos/data
+- [Testing/org/magnos/data](https://github.com/ClickerMonkey/daperz/tree/master/Testing/org/magnos/data)
