@@ -3,6 +3,17 @@ daperz
 
 A Java library for writing/reading data in a generic way to a store. The library is designed with the idea that the user will be constantly modifying this file (or sections of it) and the library will efficiently load and persistent data between Java objects and the store implementation (memory, file, etc).
 
+**Terminology**
+- Data *- a fixed size, specifically located, object that be be read and written to a store*
+- Var *- Data that has a single value, i.e. StringVar, IntVar*
+- DataArray *- An array of Data elements that are the same type and size*
+- DataSet *- A set of Data elements that can be any type and size*
+
+**Features**
+- Store implementations include File (uses RandomAccessStream), Memory Mapped File (uses MappedByteBuffer), and Memory (uses ByteBuffer)
+- Stores can be set to automatically flush Data when the store is written to.
+- Stores can be refreshed, rereading the underlying data and updating the Data objects associated to the Store.
+
 **Example**
 
 ```java
