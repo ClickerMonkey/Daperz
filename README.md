@@ -30,6 +30,13 @@ store.close();
 
 https://github.com/ClickerMonkey/daperz/tree/master/build
 
+**Projects using daperz:**
+- [statastic](https://github.com/ClickerMonkey/statastic)
+
+**Dependencies**
+- [buffero](https://github.com/ClickerMonkey/buffero)
+- [testility](https://github.com/ClickerMonkey/testility) *for unit tests*
+
 **Testing Examples**
 
 https://github.com/ClickerMonkey/daperz/tree/master/Testing/org/magnos/data
