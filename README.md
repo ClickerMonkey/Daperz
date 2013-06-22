@@ -14,6 +14,9 @@ A Java library for writing/reading data in a generic way to a store. The library
 - Stores can be set to automatically flush Data when the store is written to.
 - Stores can be refreshed, rereading the underlying data and updating the Data objects associated to the Store.
 
+**Documentation**
+- [JavaDoc](http://clickermonkey.github.com/daperz/)
+
 **Example**
 
 ```java
