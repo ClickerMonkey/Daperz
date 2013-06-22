@@ -1,0 +1,5 @@
+org.magnos.data
+org.magnos.data.error
+org.magnos.data.store
+org.magnos.data.store.factory
+org.magnos.data.var
