@@ -15,7 +15,7 @@ A Java library for writing/reading data in a generic way to a store. The library
 - Stores can be refreshed, rereading the underlying data and updating the Data objects associated to the Store.
 
 **Documentation**
-- [JavaDoc](http://clickermonkey.github.com/daperz/)
+- [JavaDoc](http://gh.magnos.org/?r=http://clickermonkey.github.com/daperz/)
 
 **Example**
 
@@ -41,17 +41,17 @@ store.close();
 ```
 
 **Builds**
-- [daperz-1.0.0.jar](https://github.com/ClickerMonkey/daperz/blob/master/build/daperz-1.0.0.jar?raw=true)
-- [daperz-src-1.0.0.jar](https://github.com/ClickerMonkey/daperz/blob/master/build/daperz-src-1.0.0.jar?raw=true) *- includes source code*
-- [daperz-all-1.0.0.jar](https://github.com/ClickerMonkey/daperz/blob/master/build/daperz-1.0.0.jar?raw=true) *- includes all dependencies*
-- [daperz-all-src-1.0.0.jar](https://github.com/ClickerMonkey/daperz/blob/master/build/daperz-src-1.0.0.jar?raw=true) *- includes all dependencies and source code*
+- [daperz-1.0.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/daperz/blob/master/build/daperz-1.0.0.jar?raw=true)
+- [daperz-src-1.0.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/daperz/blob/master/build/daperz-src-1.0.0.jar?raw=true) *- includes source code*
+- [daperz-all-1.0.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/daperz/blob/master/build/daperz-1.0.0.jar?raw=true) *- includes all dependencies*
+- [daperz-all-src-1.0.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/daperz/blob/master/build/daperz-src-1.0.0.jar?raw=true) *- includes all dependencies and source code*
 
 **Projects using daperz:**
-- [statastic](https://github.com/ClickerMonkey/statastic)
+- [statastic](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/statastic)
 
 **Dependencies**
-- [buffero](https://github.com/ClickerMonkey/buffero)
-- [testility](https://github.com/ClickerMonkey/testility) *for unit tests*
+- [buffero](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/buffero)
+- [testility](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/testility) *for unit tests*
 
 **Testing Examples**
-- [Testing/org/magnos/data](https://github.com/ClickerMonkey/daperz/tree/master/Testing/org/magnos/data)
+- [Testing/org/magnos/data](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/daperz/tree/master/Testing/org/magnos/data)
